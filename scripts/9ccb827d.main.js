@@ -1,0 +1,1 @@
+"use strict";$.backstretch("/images/rail-bg.jpg",{centeredX:!1,centeredY:!1});
